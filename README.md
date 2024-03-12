@@ -30,9 +30,9 @@ To get started there are two options:
 
 The most straightforward way to run hands-on exercises is to execute them in the cloud. For each of the three parts, open the jupyter notebook in Google Colab to run the code interactively:
 
-- [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld24-applications-ML-workshop/blob/main/text_classification_case_study/notekbook.ipynb) Text Classification
-- [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld24-applications-ML-workshop/blob/main/timeseries_regression_case_study/notebook.ipynb) Timeseries Regression
-- [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld24-applications-ML-workshop/blob/main/anomaly_detection_case_study/notebook.ipynb) Anomaly Detection
+- [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmirKhalilzadeh/tmp/blob/main/text_classification_case_study/Text_classification_solution.ipynb) Text Classification
+- [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmirKhalilzadeh/tmp/blob/main/timeseries_regression_case_study/timeseries_prediction_solution.ipynb) Timeseries Regression
+- [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmirKhalilzadeh/tmp/blob/main/anomaly_detection_case_study/anomalies_detection_solution.ipynb) Anomaly Detection
 
 ### Run Hands-On locally on your machine (if you want to run the codes later on your machine)
 
