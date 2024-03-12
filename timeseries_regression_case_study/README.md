@@ -20,7 +20,7 @@ To get started there are two options:
 
 ### Run Hands-On in the Cloud (recommended for this workshop)
 
-The most straightforward way to run the hands-on exercise is to execute them in the cloud. Open the jupyter notebook in Google Colab to run the code interactively [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld24-applications-ML-workshop/blob/main/timeseries_regression_case_study/notebook.ipynb).
+The most straightforward way to run the hands-on exercise is to execute them in the cloud. Open the jupyter notebook in Google Colab to run the code interactively [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/amld24-applications-ML-workshop/blob/main/timeseries_regression_case_study/timeseries_prediction_workbook.ipynb).
 
 You will start with setting up the Google Colab. If you want to execute a cell, make sure it is selected and then press `SHIFT`+`ENTER` or click on the `'Play'` button.
 
