@@ -1,11 +1,10 @@
-name: "amld"
+name: "amld24"
 channels:
   - defaults
   - conda-forge
 dependencies:
   - python=3.9
   - beautifulsoup4=4.10
-  - imageio=2.13
   - ipython=7.27
   - jupyter=1.0
   - jupyterlab=3.1
@@ -20,7 +19,6 @@ dependencies:
   - scipy=1.7
   - seaborn=0.11
   - tqdm=4
-  - pip:
-    - tensorflow-hub==0.12
-    - tensorflow==2.5
+  - statsmodels=0.12
+
 prefix: "/opt/conda"
